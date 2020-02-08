@@ -1,6 +1,6 @@
 ﻿// 全局的一些配置
 export default {
-    rootPath: '',
+    rootPath: '/docs',
     port: 8080,
     domain: 'merlot-jeff.github.io', // 站点部署域名，无需协议和path等
     defaultSearch: 'baidu', // 默认搜索引擎，baidu或者google
