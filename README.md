@@ -2,7 +2,7 @@
 
 [![CI Status](https://github.com/seata/seata.github.io/workflows/CI/badge.svg)](https://github.com/seata/seata.github.io/actions)
 
-All website material  of https://merlot-jeff.github.io
+All website material  of https://seata.io
 
 
 ## Prerequisite
